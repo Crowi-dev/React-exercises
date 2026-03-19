@@ -10,7 +10,7 @@ export default function App() {
         Welcome to React!
       </h1>
 
-      <Profile name="Your Name" role="Junior Developer" />
+      <Profile name="Teemu" role="Junior Developer" />
 
       <div className="flex gap-4 mt-8">
         <TeamCard name="Bart Simpson" role="Son" />
